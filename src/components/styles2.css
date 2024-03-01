@@ -1,0 +1,16 @@
+
+.myimg {
+  margin-top: 50px;
+  border-radius: 50%;
+  width: 200px;
+}
+#cv-template {
+  display: none;
+}
+.background {
+  background-color: rgb(195, 196, 196);
+}
+.buttonED {
+  background-color: grey;
+  border: 1px solid black;
+}
